@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 12 10:35:32 PET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0172-0986-d946-0000077f5738 
+on database directory /Users/paul/UPeU/bigData/201bigdata/naturall/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@e5b149c 
+Loaded from file:/usr/local/Cellar/apache-spark/2.4.5/libexec/jars/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=1.8.0_252-b09
+user.dir=/Users/paul/UPeU/bigData/201bigdata/naturall
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
